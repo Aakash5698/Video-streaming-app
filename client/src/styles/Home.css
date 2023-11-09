@@ -1,0 +1,24 @@
+.container_home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    height: 80vh;
+    align-items: center;
+}
+.home_img {
+    width: 700;
+    height: 600;
+    border-radius: 60px;
+}
+
+.welcome_tag {
+    font-size: 25px;
+}
+h1 {
+    font-family: "Goldman", cursive;
+}
+.img_container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,21 @@
+.videoPlayer {
+    margin-top: 20px;
+    width: 100%;
+    height: 90vh;
+}
+.video_container {
+    display: flex;
+    flex-direction: column;
+}
+.video_details {
+    display: flex;
+    justify-content: space-evenly;
+}
+.current_name {
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+}
+.current_duration {
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+}
